@@ -1,3 +1,4 @@
+<img href="https://www.shuup.com/wp-content/uploads/2017/12/python-plus-django-1.jpg"/>
 # django-capstone-project
 You’ve been asked by a restaurant owner to build an application that will help keep track of how much food they have throughout the day. The owner starts the day with:
 
